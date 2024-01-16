@@ -1,6 +1,4 @@
-<p align="right">
-<img src='https://user-images.githubusercontent.com/102899317/195816326-d2c54fd9-22de-4ef1-919d-ce3249198b58.png' width="400" height="180" />
-</p>
+
 
 
 
@@ -15,8 +13,8 @@ This full CarShare API build using Express and Mongodb. Here it contains all the
 
 
 ```bash
-$ git clone https://github.com/harshalmm143/carShare_Api_NodeJs_Express.git
-$ cd carShare_Api_NodeJs_Express
+$ git clone [https://github.com/SejalNehete/Autorentic_Api_NodeJs_MongoDB.git]
+$ cd Autorentic_Api_NodeJS_MongoDB
 $ npm install
 ```
 
@@ -43,7 +41,7 @@ npm start
 
 |Key | Value|
 -----|------
-| Name | Harsh |
+| Name | Sejal |
 | Mobile | 0987656789 |
 | Email |  example@.com |
 | Password | Password |
@@ -154,7 +152,7 @@ Javascript, HTML, CSS, ReactJs, NodeJs, ReactNative
 
 ## Authors 👨🏻‍💻
 
-- [@harshalmm143](https://www.github.com/harshalmm143)
+- [@SejalNehete](https://www.github.com/SejalNehete)
 
 
 
